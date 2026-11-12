@@ -1,0 +1,11 @@
+PySide6
+neurokit2
+scikit-learn
+scipy
+matplotlib
+pandas
+numpy
+openpyxl
+reportlab
+PyMySQL
+bcrypt
